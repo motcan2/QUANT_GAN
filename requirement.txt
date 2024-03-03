@@ -1,0 +1,10 @@
+
+Libreries = {
+            torch,
+            matplotlib,
+            numpy,
+            pandas,
+            scipy,
+            tqdm
+            }
+            
